@@ -78,7 +78,6 @@ nav ul li a:hover{
     display: flex;
     overflow: hidden;
     
-    /* justify-content: center; */
 }
 .card-item{
     display: inline-flex;
